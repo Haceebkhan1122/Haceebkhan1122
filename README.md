@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Haseeb Khan
 
-**Senior Frontend Engineer** | 7+ Years of Experience | Ex-Meri Sehat, Ex-Cubix
+**Manager, Frontend Engineering** | 7+ Years of Experience | Currently @ Meri Sehat | Ex-Cubix | Ex-Gexton
 
 📍 Karachi, Pakistan  
-🌐 [imhaseebkhan.dev](https://imhaseebkhan.dev) *(Portfolio Coming Soon)*  
+🌐 [imhaseebkhan.dev](https://imhaseebkhan.dev)   
 💼 [LinkedIn](https://linkedin.com/in/haseeb-khan-18b655149)  
 📧 [haceebkhan1122@gmail.com](mailto:haceebkhan1122@gmail.com)
 
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-Results-driven Senior Frontend Engineer with 7+ years of experience architecting high-performance web applications in **healthcare, e-commerce, and enterprise domains**.
+Results-driven frontend engineering leader with 7+ years of experience architecting high-performance web applications in **healthcare, e-commerce, and enterprise domains**. Currently managing frontend engineering at **Meri Sehat**, Pakistan's first AI-powered health platform.
 
 #### 🏆 Key Achievements
 
@@ -21,15 +21,15 @@ Results-driven Senior Frontend Engineer with 7+ years of experience architecting
 | **Performance Optimization** | Reduced load time from 4.2s → 2.5s (40% improvement) |
 | **WCAG 2.1 Compliance** | Delivered accessible UI for hearing-impaired users |
 | **Component Library** | Reduced development time by 30% across 6+ projects |
-| **Team Leadership** | Led 5 engineers, reduced bug backlog by 60% |
+| **Team Leadership** | Leading 5 engineers, reduced bug backlog by 60% |
 
 ---
 
 ### 💼 Current Focus
 
-- 🔭 Leading frontend at **Meri Sehat** — Pakistan's first AI-powered health platform with rPPG technology
-- 📚 Deep diving into **Web Performance Optimization** & **System Design for Frontend**
-- 🎯 Preparing for **Senior/Lead Frontend Engineer** roles
+- 🔭 Managing frontend engineering at **Meri Sehat** — Pakistan's first AI-powered health platform with rPPG technology
+- 📚 Deep diving into **Web Performance Optimization**, **System Design**, and **Engineering Leadership**
+- 🎯 Growing high-performing frontend teams and mentoring engineers
 
 ---
 
@@ -99,4 +99,16 @@ Results-driven Senior Frontend Engineer with 7+ years of experience architecting
 
 ---
 
-### 💼 Experience Snapshot
+### 💼 Experience Timeline
+
+| Company | Role 
+|---------|------|----------|------------|
+| **Meri Sehat** | Manager, Frontend Engineering 
+| **Cubix** | Senior Software Engineer Frontend 
+| **Gexton** | Web Designer
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing frontend architecture, engineering leadership, or interesting projects. Reach out via [LinkedIn](https://linkedin.com/in/haseeb-khan-18b655149) or [email](mailto:haceebkhan1122@gmail.com).
