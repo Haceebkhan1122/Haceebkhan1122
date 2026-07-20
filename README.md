@@ -101,11 +101,11 @@ Results-driven frontend engineering leader with 7+ years of experience architect
 
 ### 💼 Experience Timeline
 
-| Company | Role 
-|---------|------|----------|------------|
-| **Meri Sehat** | Manager, Frontend Engineering 
-| **Cubix** | Senior Software Engineer Frontend 
-| **Gexton** | Web Designer
+| Company | Role |
+|---------|------|
+| **Meri Sehat** | Manager, Frontend Engineering |
+| **Cubix** | Senior Software Engineer, Frontend |
+| **Gexton** | Web Designer |
 
 ---
 
